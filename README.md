@@ -146,7 +146,7 @@ bugs and optimization.
 - TV Shows (Big Bank Theory, FRIENDS)
 - Algorithms and Competitive programming
 - Snoker
-- gaming
+- Gaming
 
 ### **Links**
 

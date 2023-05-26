@@ -82,6 +82,19 @@ Quaid public high school 2012-2013
 
 ## **Recent Projects**
 
+**Vision Bank (AGTB) Customer Onboarding System**
+
+- Worked on integrating mirrorfly api for identification via AGDM and Non-AGDM
+- Designed and implemented real-time video KYC verification of signing users
+- Worked on implementing backend Apis using NestJS framework
+
+**Vision Bank (AGTB) Post Onboarding System**
+
+- Implemented Banking Portal frontend and backend application.
+- Implemented security, audit logging and database integrity strategies.
+- Implemented Back-Ofiice Portal frontend and backend application.
+- Worked on implementing backend Apis using NestJS framework
+
 **KFHK Customer Onboarding system**
 
 - Worked on integrating mirrorfly api for identification via video call

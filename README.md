@@ -4,14 +4,23 @@
 Language: English (Fluent)  
 Location: Lahore, Pakistan
 
+
+**Summary**  
+I am a Full Stack Developer with 5 years of experience, highly skilled in Angular and React for building user interfaces. On the backend side, I have extensive experience with, PHP, Javascript, and Node.js, developing RESTful APIs, integrating databases, and utilizing third-party services for scalable web applications. Proficient in PostgreSQL, MySQL, and MongoDB, I am adept at SQL queries, database design, and optimization. With expertise in Git and Agile/Scrum methodologies, I deliver high-quality solutions and effectively manage software projects.
+
 ### **Work Experience**
 
 **Senior Software Engineer - Aion Digital (Feb 2021 - Present)**  
 Currently working as a Senior Software Engineer on developing digital transformation solution also developing banking platform product. Working on both the front end (using Angular framework and React.js) as well as backend (different microservices and middlewares development using Nodejs Express and NestJS framework).
 
+**Software Engineer - Mobiato Consulting (Sep 2020 - Jan 2021)**  
+At Mobiato Consulting, Being a Software Engineer, I was handling frontends in Angular To assure unit testing & frontend development.
 
+**Software Engineer - Octalogicx (Feb 2019 - Aug 2020)**  
+At Octalogicx, Being a Software Engineer, I was handling frontends in React and Angular and the backends using the NodeJs and Php
+Codeigniter with different databases. To assure unit testing & frontend/backend development.
 
-**Software Engineer - Octalogicx (Feb 2019 - Jan 2021)**  
+**Software Engineer - Mobiato Counsulting (Feb 2019 - Jan 2021)**  
 At Octalogicx, Being a Software Engineer, I was handling frontends in React and Angular and the backends using the NodeJs and Php
 Codeigniter with different databases. To assure unit testing & frontend/backend development.
 

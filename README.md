@@ -5,7 +5,7 @@ Language: English (Fluent)
 Location: Lahore, Pakistan
 
 
-**Summary**  
+### **Summary**  
 I am a Full Stack Developer with 5 years of experience, highly skilled in Angular and React for building user interfaces. On the backend side, I have extensive experience with, PHP, Javascript, and Node.js, developing RESTful APIs, integrating databases, and utilizing third-party services for scalable web applications. Proficient in PostgreSQL, MySQL, and MongoDB, I am adept at SQL queries, database design, and optimization. With expertise in Git and Agile/Scrum methodologies, I deliver high-quality solutions and effectively manage software projects.
 
 ### **Work Experience**

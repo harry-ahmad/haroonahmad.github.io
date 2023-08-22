@@ -10,7 +10,7 @@ A motivated software development enthusiast with a degree in software engineerin
 and an analytical and results-oriented software engineer, customer-focused, articulate, and able to think "outside the law". Interested in a challenging engineering career in an application development environment, learning new technologies, 
 Communicate and manage like-minded people. I enjoy working in more dynamic roles to challenge and enhance my knowledge and experience.
 
-### **TECHNICAL SKILLS**
+## **TECHNICAL SKILLS**
 
 **Areas of Expertise**
 
@@ -64,23 +64,50 @@ Communicate and manage like-minded people. I enjoy working in more dynamic roles
 - Version Control using Github, Gitlab, Bitbucket, SVN
 
 
-### **Work Experience**
+## **Work Experience**
 
 **Senior Software Engineer - Aion Digital (Feb 2021 - Present)**  
 Currently working as a Senior Software Engineer on developing digital transformation solution also developing banking platform product. Working on both the front end (using Angular framework and React.js) as well as backend (different microservices and middlewares development using Nodejs Express and NestJS framework).
 
+- **Responsibilites**
+
+  -  Team Management
+  - Developed new features e.g. Accounts, Beneficiaries, Payment Transfer.
+  - PR Reviews for the tickets and coordinating with Team-mates.
+  - Maintain Products UI/UX and Backend architecture
+  - Integrate Core banking APIs
+
 **Software Engineer - Mobiato Consulting (Sep 2020 - Jan 2021)**  
 At Mobiato Consulting, Being a Software Engineer, I was handling frontends in Angular To assure unit testing & frontend development.
 
+- **Responsibilites**
+  
+  - Developed multiple CRM fetures.
+  - Maintain Products UI/UX architecture
+  - Integrate CRM APIs
+    
 **Software Engineer - Octalogicx (Feb 2019 - Jan 2021)**  
 At Octalogicx, Being a Software Engineer, I was handling frontends in React and Angular and the backends using the NodeJs and Php
 Codeigniter with different databases. To assure unit testing & frontend/backend development.
 
+- **Responsibilites**
+  
+  - Team Management
+  - UI/UX and Backend Architecture
+  - Implementation, Development and Maintenance
+ 
 **Software Engineer - YONASI (May 2017 - Jan 2019)**  
 Being a Software Engineer, I was handling frontends in React and Angular and the backend using the Php Codeigniter
 framework. To assure unit testing & frontend/backend development.
 
-### **Education**
+- **Responsibilites**
+  
+  - Developed Restful API’s in Codeigniter for client side ReactJs, admin dashboard and user Portal.
+  - Communicated with the client directly and prepared requirement documents.
+  - Managed the project and database.
+ 
+    
+## **Education**
 
 **Bachelors in Science , Software Engineering**  
 Virtual University of Pakistan (2020)
@@ -120,13 +147,13 @@ Quaid public high school 2012-2013
 - Implemented Admin Portal frontend and backend application.
 
 
-### **Personal Interests**
+## **Personal Interests**
 
 - Keen on learning new tools and technologies
 - Movies
 - Cricket, Video Games
 
-### **Links**
+## **Links**
 
 - <https://github.com/harry-ahmad>
 - <https://www.linkedin.com/in/haroon-ahmad-a9b86b169/>

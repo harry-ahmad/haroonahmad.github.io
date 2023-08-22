@@ -12,7 +12,15 @@ Communicate and manage like-minded people. I enjoy working in more dynamic roles
 
 ### **TECHNICAL SKILLS**
 
-### **Front End**
+**Areas of Expertise**
+
+- fintech Systems (Had oppurtunity to enhance the backend+frontend of Kuwait’s largest bank)
+- Ecommerce Applications
+- Data warehouse Applications and ETL Tools Development
+- Health Care Systems (EMR) built on OpenEHR Specifications
+
+
+**Front End**
 
 - Angular Framework
 - React.js
@@ -24,7 +32,7 @@ Communicate and manage like-minded people. I enjoy working in more dynamic roles
 - WebGL, Canvas, WebRTC
 - Advance CSS - Proficient in Sass, Grids, flexbox, Animations, Media Queries, Responsive Web Design
 
-### **Back End**
+**Back End**
 
 - PHP, core, codeigniter
 - Node.js - Express.js, NestJS, WebSocket
@@ -34,28 +42,7 @@ Communicate and manage like-minded people. I enjoy working in more dynamic roles
 - Authentication - OAuth, JWT
 - Experienced in developing API using REST, SOAP & gRPC protocol
 
-
-### **Areas of Expertise**
-
-- fintech Systems (Had oppurtunity to enhance the backend+frontend of Kuwait’s largest bank)
-- Ecommerce Applications
-- Data warehouse Applications and ETL Tools Development
-- Health Care Systems (EMR) built on OpenEHR Specifications
-
-
-### **Security, Testing and Quality Assurance**
-
-- Experience in Unit Testing, Functional Testing and Test-Driven Development
-- Node.js - Passport.js (Authentication), Helmet.js (Security), Jest
-- Cypress Automated E2E testing
-
-### **Infrastructure experience / Devops**
-
-- Windows Server (IIS, On-premises deployments and application maintenance experience)
-- Experience in Application Deployment to AWS, Heroku, IIS (Windows Server), Nginx (Linux), Azure, Docker Containers
-- Version Control using Github, Gitlab, Bitbucket, SVN
-
-### **Architectural & Development Experience in using**
+**Architectural & Development Experience in using**
 
 - Microservices Architecture
 - Event Driven Architecture
@@ -63,6 +50,18 @@ Communicate and manage like-minded people. I enjoy working in more dynamic roles
 - Object Oriented Programming
 - Functional Programming
 - Design & Behavorial patterns (CQRS, Inversion of Control, MVC etc.)
+
+**Security, Testing and Quality Assurance**
+
+- Experience in Unit Testing, Functional Testing and Test-Driven Development
+- Node.js - Passport.js (Authentication), Helmet.js (Security), Jest
+- Cypress Automated E2E testing
+
+**Infrastructure experience / Devops**
+
+- Windows Server (IIS, On-premises deployments and application maintenance experience)
+- Experience in Application Deployment to AWS, Heroku, IIS (Windows Server), Nginx (Linux), Azure, Docker Containers
+- Version Control using Github, Gitlab, Bitbucket, SVN
 
 
 ### **Work Experience**

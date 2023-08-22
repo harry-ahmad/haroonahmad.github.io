@@ -35,35 +35,6 @@ Communicate and manage like-minded people. I enjoy working in more dynamic roles
 - Experienced in developing API using REST, SOAP & gRPC protocol
 
 
-### **Work Experience**
-
-**Senior Software Engineer - Aion Digital (Feb 2021 - Present)**  
-Currently working as a Senior Software Engineer on developing digital transformation solution also developing banking platform product. Working on both the front end (using Angular framework and React.js) as well as backend (different microservices and middlewares development using Nodejs Express and NestJS framework).
-
-**Software Engineer - Mobiato Consulting (Sep 2020 - Jan 2021)**  
-At Mobiato Consulting, Being a Software Engineer, I was handling frontends in Angular To assure unit testing & frontend development.
-
-**Software Engineer - Octalogicx (Feb 2019 - Jan 2021)**  
-At Octalogicx, Being a Software Engineer, I was handling frontends in React and Angular and the backends using the NodeJs and Php
-Codeigniter with different databases. To assure unit testing & frontend/backend development.
-
-**Software Engineer - YONASI (May 2017 - Jan 2019)**  
-Being a Software Engineer, I was handling frontends in React and Angular and the backend using the Php Codeigniter
-framework. To assure unit testing & frontend/backend development.
-
-### **Education**
-
-**Bachelors in Science , Software Engineering**  
-Virtual University of Pakistan (2020)
-
-**Intermediate in Computer Science**  
-Govt. murray College 2013-2015  
-
-**Matriculation**  
-Quaid public high school 2012-2013
-
-### **Certifications**
-
 ### **Areas of Expertise**
 
 - fintech Systems (Had oppurtunity to enhance the backend+frontend of Kuwait’s largest bank)
@@ -92,6 +63,35 @@ Quaid public high school 2012-2013
 - Object Oriented Programming
 - Functional Programming
 - Design & Behavorial patterns (CQRS, Inversion of Control, MVC etc.)
+
+
+### **Work Experience**
+
+**Senior Software Engineer - Aion Digital (Feb 2021 - Present)**  
+Currently working as a Senior Software Engineer on developing digital transformation solution also developing banking platform product. Working on both the front end (using Angular framework and React.js) as well as backend (different microservices and middlewares development using Nodejs Express and NestJS framework).
+
+**Software Engineer - Mobiato Consulting (Sep 2020 - Jan 2021)**  
+At Mobiato Consulting, Being a Software Engineer, I was handling frontends in Angular To assure unit testing & frontend development.
+
+**Software Engineer - Octalogicx (Feb 2019 - Jan 2021)**  
+At Octalogicx, Being a Software Engineer, I was handling frontends in React and Angular and the backends using the NodeJs and Php
+Codeigniter with different databases. To assure unit testing & frontend/backend development.
+
+**Software Engineer - YONASI (May 2017 - Jan 2019)**  
+Being a Software Engineer, I was handling frontends in React and Angular and the backend using the Php Codeigniter
+framework. To assure unit testing & frontend/backend development.
+
+### **Education**
+
+**Bachelors in Science , Software Engineering**  
+Virtual University of Pakistan (2020)
+
+**Intermediate in Computer Science**  
+Govt. murray College 2013-2015  
+
+**Matriculation**  
+Quaid public high school 2012-2013
+
 
 ## **Recent Projects**
 
@@ -124,7 +124,7 @@ Quaid public high school 2012-2013
 ### **Personal Interests**
 
 - Keen on learning new tools and technologies
-- TV Shows (Big Bank Theory)
+- Movies
 - Cricket, Video Games
 
 ### **Links**

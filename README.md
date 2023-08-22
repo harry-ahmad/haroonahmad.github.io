@@ -6,7 +6,34 @@ Location: Lahore, Pakistan
 
 
 ### **Summary**  
-I am a Full Stack Developer with 5 years of experience, highly skilled in Angular and React for building user interfaces. On the backend side, I have extensive experience with, PHP, Javascript, and Node.js, developing RESTful APIs, integrating databases, and utilizing third-party services for scalable web applications. Proficient in PostgreSQL, MySQL, and MongoDB, I am adept at SQL queries, database design, and optimization. With expertise in Git and Agile/Scrum methodologies, I deliver high-quality solutions and effectively manage software projects.
+A motivated software development enthusiast with a degree in software engineering and over 5+ years of experience 
+and an analytical and results-oriented software engineer, customer-focused, articulate, and able to think "outside the law". Interested in a challenging engineering career in an application development environment, learning new technologies, 
+Communicate and manage like-minded people. I enjoy working in more dynamic roles to challenge and enhance my knowledge and experience.
+
+### **TECHNICAL SKILLS**
+
+### **Front End**
+
+- Angular Framework
+- React.js
+- TypeScript, JavaScript
+- JQuery
+- Firebase
+- MySQL
+- Libraries: D3.js (Data Visualization), jQuery, Redux, RxJS
+- WebGL, Canvas, WebRTC
+- Advance CSS - Proficient in Sass, Grids, flexbox, Animations, Media Queries, Responsive Web Design
+
+### **Back End**
+
+- PHP, core, codeigniter
+- Node.js - Express.js, NestJS, WebSocket
+- SQL Databases - MS SQL Server, MySQL, SQLite
+- NoSQL - MongoDB, Firebase FireStore
+- ORM - TypeORM and Mongoose on Node.js
+- Authentication - OAuth, JWT
+- Experienced in developing API using REST, SOAP & gRPC protocol
+
 
 ### **Work Experience**
 
@@ -16,11 +43,7 @@ Currently working as a Senior Software Engineer on developing digital transforma
 **Software Engineer - Mobiato Consulting (Sep 2020 - Jan 2021)**  
 At Mobiato Consulting, Being a Software Engineer, I was handling frontends in Angular To assure unit testing & frontend development.
 
-**Software Engineer - Octalogicx (Feb 2019 - Aug 2020)**  
-At Octalogicx, Being a Software Engineer, I was handling frontends in React and Angular and the backends using the NodeJs and Php
-Codeigniter with different databases. To assure unit testing & frontend/backend development.
-
-**Software Engineer - Mobiato Counsulting (Feb 2019 - Jan 2021)**  
+**Software Engineer - Octalogicx (Feb 2019 - Jan 2021)**  
 At Octalogicx, Being a Software Engineer, I was handling frontends in React and Angular and the backends using the NodeJs and Php
 Codeigniter with different databases. To assure unit testing & frontend/backend development.
 
@@ -32,8 +55,10 @@ framework. To assure unit testing & frontend/backend development.
 
 **Bachelors in Science , Software Engineering**  
 Virtual University of Pakistan (2020)
+
 **Intermediate in Computer Science**  
 Govt. murray College 2013-2015  
+
 **Matriculation**  
 Quaid public high school 2012-2013
 
@@ -46,27 +71,6 @@ Quaid public high school 2012-2013
 - Data warehouse Applications and ETL Tools Development
 - Health Care Systems (EMR) built on OpenEHR Specifications
 
-### **Front End**
-
-- Angular Framework
-- React.js
-- TypeScript, JavaScript
-- GraphQL
-- Firebase
-- MySQL
-- Libraries: D3.js (Data Visualization), jQuery, Redux, RxJS
-- WebGL, Canvas, WebRTC
-- Advance CSS - Proficient in Sass, Grids, flexbox, Animations, Media Queries, Responsive Web Design
-
-### **Back End**
-
-- Node.js - Express.js, NestJS, WebSocket, GraphQL Apollo
-- PHP, core, codeigniter
-- SQL Databases - MS SQL Server, MySQL, PostgreSQL, SQLite
-- NoSQL - MongoDB, Firebase FireStore
-- ORM - TypeORM and Mongoose on Node.js
-- Authentication - OAuth, JWT
-- Experienced in developing API using REST, GraphQL, SOAP & gRPC protocol
 
 ### **Security, Testing and Quality Assurance**
 
@@ -77,8 +81,8 @@ Quaid public high school 2012-2013
 ### **Infrastructure experience / Devops**
 
 - Windows Server (IIS, On-premises deployments and application maintenance experience)
-- Experience in Application Deployment to Heroku, IIS (Windows Server), Nginx (Linux), Azure, Docker Containers
-- Version Control using Git, TFS, SVN
+- Experience in Application Deployment to AWS, Heroku, IIS (Windows Server), Nginx (Linux), Azure, Docker Containers
+- Version Control using Github, Gitlab, Bitbucket, SVN
 
 ### **Architectural & Development Experience in using**
 
@@ -116,61 +120,17 @@ Quaid public high school 2012-2013
 - Implemented security, audit logging and database integrity strategies.
 - Implemented Admin Portal frontend and backend application.
 
-**LMS System**
-- Implemented Portal frontend and backend application.
-
-**Share E Care**
-- Medical Report Sharing between Provider, Patient, Health care facility Platform frontend in Angular and
-Backend in Nodejs with Stripe Integration.
-
-**VERILOG**
-- It is a meter data management software solution for energy utilities and energy managers to manage and
-control their networks/objects. VERILOG does provide reports and analyses to energy utilities. The system
-offers real-time reports alert management. The Front-End is developed in ReactJS and Back-End API in Codeigniter.
-
-**EMR**
-- The EMR contains the medical history of all patients who use the practice and is part of the internal patient
-record-keeping process. An EMR provides immediate access to each individual patient's history, allowing
-the practice to track patient history and identify patients who are due for visits, tests, or screenings. It is an
-ajax based app so I worked on creating dynamic breadcrumbs, Manipulating Browser's history, and Solving
-bugs and optimization.
-
-**Realtor**
-- Implemented Portal frontend and backend application.
-
-**Gardavoyager**
-- Implemented Portal frontend and backend application.
-
-**raeex**
-- Implemented Portal frontend and backend application.
-
-**Triways food**
-- Implemented Portal frontend and backend application.
-
-**Knife Box Freak**
-- Implemented Portal frontend and backend application.
-
-**Toy For Smile**
-- Implemented Portal frontend and backend application.
-
-**Asan Rishta**
-- Implemented Portal frontend and backend application.
-
-**Career Scripters**
-- Implemented Portal frontend and backend application.
-
-**Styling CV**
-- Implemented CV styling Platform frontend in Angular and Backend in Nodejs and MongoDB with Stripe Integration
-
 
 ### **Personal Interests**
 
-- TV Shows (Big Bank Theory, FRIENDS)
-- Algorithms and Competitive programming
-- Snoker
-- Gaming
+- Keen on learning new tools and technologies
+- TV Shows (Big Bank Theory)
+- Cricket, Video Games
 
 ### **Links**
 
 - <https://github.com/harry-ahmad>
 - <https://www.linkedin.com/in/haroon-ahmad-a9b86b169/>
+
+### **References**
+- will be provided upon request
